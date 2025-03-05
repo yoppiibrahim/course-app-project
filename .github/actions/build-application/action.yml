@@ -28,4 +28,4 @@ runs:
 
   - name: Install dependencies with poetry
     run: poetry run make install
-    shell: bash
+   
